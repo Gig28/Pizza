@@ -1,4 +1,4 @@
-package com.example.pizza;
+package com.example.pizzarecipes;
 
 public class PizzaRecipeItem {
     private int imageResource;
